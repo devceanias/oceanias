@@ -1,0 +1,64 @@
+{
+    "rules": [
+        {
+            "id": 1,
+            "rule": "Respect all players.",
+            "description": "Show kindness and respect to everyone, avoiding any form of harassment, bullying, or discrimination."
+        },
+        {
+            "id": 2,
+            "rule": "No hate speech.",
+            "description": "Avoid using any racist, sexist, homophobic, or offensive language."
+        },
+        {
+            "id": 3,
+            "rule": "No doxing or sharing personal information.",
+            "description": "Keep private information private and avoid sharing details about yourself or others."
+        },
+        {
+            "id": 4,
+            "rule": "No cheating or using unauthorised modifications.",
+            "description": "Refrain from using hacks, cheats, or mods that provide an unfair advantage."
+        },
+        {
+            "id": 5,
+            "rule": "No exploiting bugs or glitches.",
+            "description": "Report any bugs, glitches, or exploits to the staff and avoid using them for personal gain."
+        },
+        {
+            "id": 6,
+            "rule": "Follow staff instructions.",
+            "description": "Adhere to directions given by server staff to maintain a fair and fun environment."
+        },
+        {
+            "id": 7,
+            "rule": "No use of real-life currency for in-game trading.",
+            "description": "Avoid trading in-game items for real-life money; doing so will result in a ban for both parties involved."
+        },
+        {
+            "id": 8,
+            "rule": "No smurfing.",
+            "description": "Refrain from using alternate accounts to gain an unfair advantage or disrupt gameplay."
+        },
+        {
+            "id": 9,
+            "rule": "No spamming.",
+            "description": "Avoid flooding the chat with unnecessary messages, symbols, or repeated content."
+        },
+        {
+            "id": 10,
+            "rule": "No advertising.",
+            "description": "Refrain from promoting other servers, services, or products in any form."
+        },
+        {
+            "id": 11,
+            "rule": "No inappropriate usernames or skins.",
+            "description": "Ensure your usernames, skins, and profile pictures are appropriate and do not contain offensive content."
+        },
+        {
+            "id": 12,
+            "rule": "Have some common sense.",
+            "description": "Engage in fair play and avoid behaviour that ruins the experience for others."
+        }
+    ]
+}
