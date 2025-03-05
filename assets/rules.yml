@@ -25,7 +25,7 @@ rules:
 
   - id: 7
     name: "No use of real-life currency for in-game trading."
-    description: "Avoid trading in-game items for real-life money; __doing so will result in a ban for both parties involved__."
+    description: "Avoid trading in-game items for real-life money; doing so will result in a ban for both parties involved."
 
   - id: 8
     name: "No smurfing."
