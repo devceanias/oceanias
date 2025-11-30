@@ -46,3 +46,7 @@ rules:
   - number: 12
     name: "Have some common sense."
     description: "Engage in fair play and avoid behaviour that ruins the experience for others."
+
+  - number: 13
+    name: "No Refusal To Fight"
+    description: "Intentionally running or evading in order to disrupt or avoid a fight is not allowed."
