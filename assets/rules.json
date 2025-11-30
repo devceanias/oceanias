@@ -59,6 +59,12 @@
             "id": 12,
             "rule": "Have some common sense.",
             "description": "Engage in fair play and avoid behaviour that ruins the experience for others."
+        },
+        {
+            "id": 13,
+            "rule": "No Refusal To Fight.",
+            "description": "Intentionally running or evading in order to disrupt or avoid a fight is not allowed."
         }
+        
     ]
 }
